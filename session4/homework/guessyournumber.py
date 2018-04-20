@@ -18,6 +18,6 @@ while True:
     elif nhap == ('s'):
         min = n
         n= int((min+max)/2)+1
-    else nhap == ('c'):
+    elif nhap == ('c'):
         print ('I knew it')
         break
